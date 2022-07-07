@@ -1,0 +1,11 @@
+h3{
+    font-size: 25px !important;
+}
+.btn-success:hover{
+    background-color: red;
+}
+canvas{
+    animation-name: ruveer;
+    animation-duration: 4s;
+    animation-iteration-count: infinite;
+}
